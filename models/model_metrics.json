@@ -1,0 +1,9 @@
+{
+    "model_name": "XGBoost",
+    "accuracy": 0.888375749238479,
+    "auc_roc": 0.6810121940531907,
+    "true_positives": 16,
+    "true_negatives": 18066,
+    "false_positives": 17,
+    "false_negatives": 2255
+}

@@ -1,0 +1,27 @@
+# Virtual Environment - DO NOT UPLOAD
+venv/
+env/
+ENV/
+*.dll
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data - Large files
+data/raw/*.csv
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Models (if too large)
+# Uncomment if models are >100MB
+# models/*.pkl
